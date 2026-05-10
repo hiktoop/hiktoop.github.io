@@ -1,6 +1,6 @@
 baseURL                = "https://hiktoop.github.io/"
 locale                 = "en-us"
-title                  = "My Blog"
+title                  = "hiktoop's blog"
 theme                  = "hugo-theme-stack"
 defaultContentLanguage = "en"
 hasCJKLanguage         = false

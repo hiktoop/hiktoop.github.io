@@ -5,9 +5,9 @@ rssFullContent = true
     since = 2026
 
 [sidebar]
-    emoji    = ""
-    subtitle = ""
-    avatar   = ""
+    emoji    = "🐱"
+    subtitle = "Code, life, and everything in between."
+    avatar   = "img/cat.jpg"
 
 [article]
     headingAnchor = false

@@ -1,7 +1,7 @@
 [en]
     label  = "English"
-    title  = "My Blog"
+    title  = "hiktoop's blog"
     weight = 1
 
     [en.params.sidebar]
-        subtitle = "A blog built with Hugo & Stack theme"
+        subtitle = "Code, life, and everything in between."
