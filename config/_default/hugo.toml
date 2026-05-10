@@ -1,0 +1,13 @@
+baseURL                = "https://hiktoop.github.io/"
+locale                 = "en-us"
+title                  = "My Blog"
+theme                  = "hugo-theme-stack"
+defaultContentLanguage = "en"
+hasCJKLanguage         = false
+
+[pagination]
+    pagerSize = 5
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
